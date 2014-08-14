@@ -339,3 +339,12 @@ ul#top-nav li a {
 	font-family:Arial, sans-serif;
 	font-weight:bold;
 }
+
+.logo {
+	background-image:url(../images/Kudler%20background.jpg) no-repeat;
+	height:150px;
+	padding-left:150px;
+	overflow:auto;
+	
+	
+}
