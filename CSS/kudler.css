@@ -64,7 +64,7 @@ body, body#internet {
 	background-color:#000;
 	width:1140px;
 	padding-top:35px;
-	padding-bottom:0px;
+	padding-bottom:33px;
 	height:350px;
 }
 
@@ -114,9 +114,9 @@ body, body#internet {
 
 .content h1 {
 	color: #AF7964;
-	font: 15px/18px Times New Roman;
+	font: 24px Times New Roman;
 	font-weight: bold;
-	
+	padding-left:75px;
 	text-transform:uppercase;
 }
 .content h2{
@@ -345,6 +345,6 @@ ul#top-nav li a {
 	height:150px;
 	padding-left:150px;
 	overflow:auto;
-	
-	
 }
+
+
